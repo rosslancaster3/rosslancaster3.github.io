@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+title: "RPI Datathon- Working with Mobile Advertising Data "
+author: "Ross Lancaster"
+categories: projects
+tags: [projects]
 image: city-1.jpg
 ---
 
