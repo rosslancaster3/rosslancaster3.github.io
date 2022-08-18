@@ -3,7 +3,7 @@ layout: post
 title: "NDVI and Corn Production"
 author: "Ross Lancaster"
 categories: projects
-tags: [proejcts]
+tags: [projects]
 image: ndvi.jpg
 ---
 
